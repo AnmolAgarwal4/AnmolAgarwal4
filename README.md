@@ -1,4 +1,4 @@
-# Hi, I'm Anmol Agarwal 👋
+# Hi, I'm Anmol Agarwal 
 
 🎓 B.Tech CSE (Hons.) @ JECRC University, Jaipur  
 💻 Full Stack Developer | AI/ML | Cloud (AWS) | Embedded Systems  
@@ -43,4 +43,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmolagarwal325@gmail.com)
 ```
 
-Paste kar, phir **"Commit changes"** green button dabaao! 🚀
