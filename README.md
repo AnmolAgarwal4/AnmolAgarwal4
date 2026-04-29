@@ -48,4 +48,4 @@
 
 When I'm not building, you'll find me deep in F1 telemetry data, race strategy breakdowns, and constructor battles. I believe in **learning by doing** — every project I build solves a real problem or scratches a real curiosity.
 
-*"The best way to learn is to build something you actually care about."*
+**The best way to learn is to build something you actually care about.**
