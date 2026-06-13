@@ -37,7 +37,7 @@ I build and ship **AI systems end-to-end** — from model training and feature e
 - 🧠 &nbsp;Deployed CV/ML systems reaching **~88% accuracy on 10,000+ image datasets** with **sub-2s inference latency**
 - 🔎 &nbsp;Built a hybrid RAG search engine with a **custom BM25 index in C** — *110× faster* than brute force; findings submitted as an **ArXiv preprint (cs.IR)**
 - ⚙️ &nbsp;Comfortable across the **full pipeline**: data → modeling → REST APIs → AWS deployment
-- 🎓 &nbsp;B.Tech CSE (Hons) @ **JECRC University** · backed by an **IBM internship**
+- 🎓 &nbsp;B.Tech CSE · backed by an **IBM internship**
 - 🚀 &nbsp;Product-engineering mindset — I care about scale, latency, and the user on the other end
 
 **Open To:** AI/ML Internships &nbsp;·&nbsp; Software Engineering Roles &nbsp;·&nbsp; Open-Source Collaboration
