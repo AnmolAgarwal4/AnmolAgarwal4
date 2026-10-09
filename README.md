@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Anmol Agarwal — AI/ML Engineer + Full-Stack Dev"/>
+<img src="assets/banner.svg" width="100%" alt="Anmol Agarwal — AI/ML Engineer and Full-Stack Developer"/>
 
 <a href="https://github.com/AnmolAgarwal4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hybrid+retrieval+in+C+%E2%80%94+0.17+ms+median+latency;First-author+preprint+%C2%B7+cs.IR;Shipping+RAG%2C+CV+%26+full-stack+products;Grokked.in+%C2%B7+1%2C571+DSA+problems+%2B+AI+tutor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D2BE&center=true&vCenter=true&width=720&lines=Hybrid+retrieval+in+C+%E2%80%94+0.17+ms+median+latency;First-author+preprint+%C2%B7+cs.IR;RAG+%C2%B7+Computer+Vision+%C2%B7+Full-Stack;1%2C571+DSA+problems+%2B+an+AI+tutor" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://anmolagarwal4.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/anmol325/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:anmolagarwal325@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=0a0714" alt="Email"/></a>
-<a href="https://lurox.netlify.app"><img src="https://img.shields.io/badge/LUROX_DEMO-F472B6?style=for-the-badge&logo=netlify&logoColor=0a0714" alt="Lurox demo"/></a>
+<a href="https://anmolagarwal4.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D2BE?style=for-the-badge&logo=googlechrome&logoColor=0b0b0c" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/anmol325/"><img src="https://img.shields.io/badge/LINKEDIN-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:anmolagarwal325@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0b0c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://lurox.netlify.app"><img src="https://img.shields.io/badge/LUROX_DEMO-0b0b0c?style=for-the-badge&logo=netlify&logoColor=white" alt="Lurox demo"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=AnmolAgarwal4&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/AnmolAgarwal4?style=flat-square&color=22D3EE&labelColor=0a0714&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/AnmolAgarwal4?style=flat-square&color=F472B6&labelColor=0a0714&label=STARS" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=AnmolAgarwal4&color=00D2BE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AnmolAgarwal4?style=flat-square&color=00D2BE&labelColor=0b0b0c&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/AnmolAgarwal4?style=flat-square&color=00D2BE&labelColor=0b0b0c&label=STARS" alt="Stars"/>
 
 </div>
 
@@ -23,15 +23,14 @@
 
 <img src="assets/h-about.svg" width="100%" alt="About"/>
 
-I build and ship **AI systems end-to-end** — from model training and retrieval to REST APIs and cloud deployment — and I care more about things that run in production than things that live in notebooks. B.Tech CSE (Hons.) student, class of 2028.
+I build and ship **AI systems end-to-end** — retrieval, models, APIs and deployment — with an engineer's eye for latency, reliability and clean architecture. Away from the keyboard: Formula 1 (Mercedes), music, and the mountains. B.Tech CSE (Hons.) student, class of 2028.
 
 <img src="assets/m-overall.svg" width="100%" alt="Key metrics"/>
 
-- 🔎 &nbsp;**First-author preprint (cs.IR, in submission)** — *Lurox*, a hybrid RAG system with a custom BM25 index written in C
+- 🔎 &nbsp;**First-author preprint (cs.IR, in submission)** — *Lurox*, hybrid RAG with a custom BM25 index written in C
 - 🧠 &nbsp;CV/ML systems at **~88% attribute-detection accuracy on 10,000+ images**, sub-2s latency
 - 🌐 &nbsp;Shipped **Grokked.in** and a **production website for a defence-tech/UAV startup** (freelance, 2026)
 - 🏢 &nbsp;**Software Engineering Intern @ IBM** — Flask, SQL, REST APIs, role-based access control
-- 🚀 &nbsp;Product-engineering mindset: scale, latency, and the person on the other end
 
 > **Open to:** AI/ML & Software Engineering internships · research collaboration · open source
 
@@ -70,7 +69,7 @@ I build and ship **AI systems end-to-end** — from model training and retrieval
 
 <img src="assets/m-lurox.svg" width="100%" alt="Lurox metrics"/>
 
-Built end-to-end from first principles — **~1,500 LOC with zero external IR libraries**: a custom BM25 inverted index in C, dense MiniLM retrieval, α-tunable fusion, and grounded Llama-3.3-70B generation.
+Built from first principles — **~1,500 LOC, zero external IR libraries**: a custom BM25 inverted index in C, dense MiniLM retrieval, α-tunable fusion, and grounded Llama-3.3-70B generation.
 
 - **Finding:** retrieval diversity peaks at **α = 0.2–0.3**, an objective distinct from accuracy-optimal tuning — validated with paired bootstrap testing (n = 10,000, p < 0.0001)
 - **Grounding:** prompt-level grounding produced zero factual contradictions across evaluated queries, no fine-tuning
@@ -145,6 +144,8 @@ Built end-to-end from first principles — **~1,500 LOC with zero external IR li
 
 <img src="assets/h-experience.svg" width="100%" alt="Experience"/>
 
+<img src="assets/journey.svg" width="100%" alt="Career timeline drawn as an elevation profile"/>
+
 ### 🛠️ Freelance Web Developer &nbsp;·&nbsp; Self-employed
 `May – Aug 2026` · `Remote`
 
@@ -180,11 +181,11 @@ Built end-to-end from first principles — **~1,500 LOC with zero external IR li
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-Python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Walmart_Forage-SWE_Simulation-0071CE?style=for-the-badge&logo=walmart&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Security-0b0b0c?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Architecture-0b0b0c?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Google-Python-0b0b0c?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-UX_Design-0b0b0c?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Walmart_Forage-SWE_Simulation-0b0b0c?style=for-the-badge&logo=walmart&logoColor=white"/>
 
 </div>
 
@@ -194,7 +195,7 @@ Built end-to-end from first principles — **~1,500 LOC with zero external IR li
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Anmol325/"><img src="https://leetcard.jacoblin.cool/Anmol325?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg=0a0714&ring=A78BFA&fire=22D3EE&radius=20" alt="LeetCode Stats" width="520"/></a>
+<a href="https://leetcode.com/u/Anmol325/"><img src="https://leetcard.jacoblin.cool/Anmol325?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg=0b0b0c&ring=00D2BE&fire=00D2BE&radius=14" alt="LeetCode Stats" width="520"/></a>
 
 </div>
 
@@ -204,12 +205,12 @@ Built end-to-end from first principles — **~1,500 LOC with zero external IR li
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolAgarwal4&show_icons=true&hide_border=true&bg_color=0a0714&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&ring_color=F472B6&border_radius=20" height="170" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=AnmolAgarwal4&hide_border=true&background=0a0714&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=ffffff&sideNums=ffffff&stroke=7C3AED&border_radius=20" height="170" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnmolAgarwal4&show_icons=true&hide_border=true&bg_color=0b0b0c&title_color=00D2BE&icon_color=00D2BE&text_color=E5E5E5&ring_color=00D2BE&border_radius=14" height="170" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=AnmolAgarwal4&hide_border=true&background=0b0b0c&ring=00D2BE&fire=00D2BE&currStreakLabel=00D2BE&sideLabels=E5E5E5&dates=8B8B92&currStreakNum=ffffff&sideNums=ffffff&stroke=2A2A2E&border_radius=14" height="170" alt="GitHub Streak"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolAgarwal4&layout=compact&hide_border=true&bg_color=0a0714&title_color=22D3EE&text_color=E5E7EB&langs_count=8&border_radius=20" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolAgarwal4&layout=compact&hide_border=true&bg_color=0b0b0c&title_color=00D2BE&text_color=E5E5E5&langs_count=8&border_radius=14" height="180" alt="Top Languages"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolAgarwal4&bg_color=0a0714&color=A78BFA&line=22D3EE&point=ffffff&area=true&hide_border=true&radius=20" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolAgarwal4&bg_color=0b0b0c&color=00D2BE&line=00D2BE&point=ffffff&area=true&hide_border=true&radius=14" width="100%" alt="Activity Graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnmolAgarwal4/AnmolAgarwal4/output/github-contribution-grid-snake-dark.svg"/>
@@ -218,6 +219,12 @@ Built end-to-end from first principles — **~1,500 LOC with zero external IR li
 </picture>
 
 </div>
+
+<br/>
+
+<img src="assets/h-offclock.svg" width="100%" alt="Off the clock"/>
+
+<img src="assets/offclock.svg" width="100%" alt="Speed, sound, summits"/>
 
 <br/>
 
@@ -237,13 +244,13 @@ anmol_agarwal:
 
 <div align="center">
 
-<a href="mailto:anmolagarwal325@gmail.com"><img src="https://img.shields.io/badge/GMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anmol325/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AnmolAgarwal4"><img src="https://img.shields.io/badge/GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=0a0714"/></a>
-<a href="https://anmolagarwal4.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-F472B6?style=for-the-badge&logo=googlechrome&logoColor=0a0714"/></a>
+<a href="mailto:anmolagarwal325@gmail.com"><img src="https://img.shields.io/badge/GMAIL-00D2BE?style=for-the-badge&logo=gmail&logoColor=0b0b0c"/></a>
+<a href="https://linkedin.com/in/anmol325/"><img src="https://img.shields.io/badge/LINKEDIN-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AnmolAgarwal4"><img src="https://img.shields.io/badge/GITHUB-0b0b0c?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://anmolagarwal4.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0b0b0c?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Build systems that ship"/>
+<img src="assets/footer.svg" width="100%" alt="Precision. Speed. Iteration."/>
 
 </div>
