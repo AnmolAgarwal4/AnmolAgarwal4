@@ -4,11 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=200&section=header&text=Anmol%20Agarwal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&descAlignX=50" width="100%"/>
 
 <a href="https://github.com/AnmolAgarwal4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Computer+Vision+%26+Deep+Learning;Retrieval-Augmented+Generation+%26+LLMs;Full-Stack+%2B+Product+Engineering" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;Retrieval-Augmented+Generation+%26+LLMs;Computer+Vision+%26+Deep+Learning;Full-Stack+%2B+Product+Engineering" alt="Typing SVG"/>
 </a>
 
 <br/>
-
 
 <img src="https://img.shields.io/badge/Jaipur,_India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
@@ -29,100 +28,115 @@
 
 ---
 
-<!-- ====================== ABOUT ====================== -->
 ## &nbsp; About
 
-I build and ship **AI systems end-to-end** — from model training and feature extraction to cloud deployment. My work spans **computer vision, machine learning, and retrieval-augmented generation**, with a focus on shipping things that actually run in production rather than staying in notebooks.
+B.Tech CSE (Hons.) student at **JECRC University, Jaipur** (2024–2028). I build and ship **AI systems end-to-end** — from model training and retrieval to REST APIs and cloud deployment — with a focus on things that run in production rather than staying in notebooks.
 
-- 🧠 &nbsp;Deployed CV/ML systems reaching **~88% accuracy on 10,000+ image datasets** with **sub-2s inference latency**
-- 🔎 &nbsp;Built a hybrid RAG search engine with a **custom BM25 index in C** — *110× faster* than brute force; findings submitted as an **ArXiv preprint (cs.IR)**
-- ⚙️ &nbsp;Comfortable across the **full pipeline**: data → modeling → REST APIs → AWS deployment
-- 🎓 &nbsp;B.Tech CSE · backed by an **IBM internship**
+- 🔎 &nbsp;First-author **preprint (cs.IR, in submission)**: *Lurox*, a hybrid RAG system with a **custom BM25 index in C** — **0.17 ms median latency, ~59× faster than dense-only retrieval**
+- 🧠 &nbsp;Built CV/ML systems reaching **~88% attribute-detection accuracy on 10,000+ images** with **sub-2s latency**
+- 🌐 &nbsp;Shipped **Grokked.in** (1,571 DSA problems + LLM AI tutor) and a **production site for a defence-tech/UAV startup** as a freelancer
+- 🏢 &nbsp;**Software Engineering Intern at IBM** (Flask, SQL, REST APIs, RBAC)
 - 🚀 &nbsp;Product-engineering mindset — I care about scale, latency, and the user on the other end
 
-**Open To:** AI/ML Internships &nbsp;·&nbsp; Software Engineering Roles &nbsp;·&nbsp; Open-Source Collaboration
+**Open To:** AI/ML & Software Engineering Internships &nbsp;·&nbsp; Research Collaboration &nbsp;·&nbsp; Open-Source
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
 ## &nbsp; Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,js,mysql,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,wordpress" alt="Frontend"/>
 
 **Backend &amp; Databases**
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite,pytorch" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mysql,sqlite" alt="Backend"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and ML"/>
 
 **Cloud, DevOps &amp; Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,arduino" alt="Cloud and Tooling"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,netlify" alt="Cloud and Tooling"/>
 
 </div>
 
 ---
 
-<!-- ====================== AI / ML EXPERTISE ====================== -->
 ## &nbsp; AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:--|:--|:--|
-| **Computer Vision** | Advanced | Attribute extraction, OpenCV pipelines, ~88% accuracy on 10K+ images |
-| **Machine Learning** | Advanced | Classification & anomaly detection, scikit-learn, ~82% accuracy |
-| **RAG / LLMs** | Proficient | Hybrid sparse+dense retrieval, Llama-3.3-70B, zero-hallucination RAG |
-| **Information Retrieval** | Proficient | Custom BM25 in C (djb2 hashing), 110× speedup, ArXiv preprint (cs.IR) |
-| **Deep Learning** | Proficient | PyTorch, sentence-transformers, MiniLM 384-dim embeddings |
-| **MLOps / Deployment** | Working | AWS EC2 / Lambda / S3, Docker, HuggingFace Spaces, CI |
+| Domain | Details |
+|:--|:--|
+| **RAG / LLMs** | Hybrid BM25 + dense retrieval, α-tunable fusion, grounded Llama-3.3-70B generation (zero factual contradictions across evaluated queries, no fine-tuning) |
+| **Information Retrieval** | Custom BM25 inverted index in C, 0.17 ms median latency, ~59× faster than dense-only, 65,899-posting index |
+| **Computer Vision** | OpenCV + GAN pipeline, ~88% attribute-detection accuracy on 10,000+ images |
+| **Machine Learning** | scikit-learn classification, ~82% accuracy on 1,000+ records, Pandas, Streamlit dashboards |
+| **Deep Learning** | PyTorch, sentence-transformers, MiniLM 384-dim embeddings |
+| **Deployment** | AWS (EC2, Lambda, S3, API Gateway, IAM, CloudWatch), Docker, Hugging Face Spaces, Netlify |
 
 ---
 
-<!-- ====================== FEATURED PROJECTS ====================== -->
-## &nbsp; Featured Projects
+## &nbsp; Research
 
 <details open>
-<summary><b>🔍 &nbsp;Lurox — Hybrid Retrieval-Augmented Search Engine</b></summary>
+<summary><b>📄 &nbsp;Lurox: A Sub-millisecond Hybrid Retrieval System with Grounded LLM Generation</b></summary>
 
 <br/>
 
-A four-layer hybrid search engine combining a hand-built sparse index with dense semantic retrieval and grounded LLM generation — engineered for speed and zero hallucination, deployed entirely on free-tier infrastructure.
+*First-author preprint (cs.IR), in submission · Jan 2026 – Present*
 
 | | |
 |:--|:--|
-| **Stack** | C · Python · FastAPI · PyTorch · Llama-3.3-70B |
-| **Scale** | 10,087-document corpus · 132-query alpha-sweep experiment |
-| **Performance** | Custom BM25 inverted index in C — **0.17ms median latency, 110× faster** than brute force |
-| **Architecture** | Sparse BM25 → MiniLM semantic search (384-dim) → hybrid fusion → Llama-3.3-70B RAG |
-| **Impact** | Identified **α = 0.2–0.3** as diversity-optimal fusion weight — submitted as **ArXiv preprint (cs.IR)** |
-| **Repository** | [Live Demo ↗](https://lurox.netlify.app) · [Source ↗](https://github.com/AnmolAgarwal4) |
+| **Stack** | C · Python · FastAPI · PyTorch · sentence-transformers · Llama-3.3-70B |
+| **Build** | End-to-end hybrid RAG from first principles — ~1,500 LOC, **zero external IR libraries** |
+| **Architecture** | Custom BM25 inverted index in C → dense MiniLM retrieval → α-tunable fusion → grounded Llama-3.3-70B generation |
+| **Performance** | **0.17 ms** median BM25 latency, **~59× faster** than dense-only retrieval, 65,899-posting index |
+| **Finding** | Retrieval diversity peaks at **α = 0.2–0.3**, an objective distinct from accuracy-optimal tuning — validated with paired bootstrap testing (n = 10,000, **p < 0.0001**) |
+| **Grounding** | Prompt-level grounding gave **zero factual contradictions** across evaluated queries, without fine-tuning |
+| **Links** | [Live Demo ↗](https://lurox.netlify.app) · [Source ↗](https://github.com/AnmolAgarwal4/Lurox) |
 
-Deployed end-to-end at **$0 cost** — HuggingFace Spaces backend, Netlify frontend. The C-based index uses djb2 hashing to keep query latency in the microsecond range while the semantic layer maintains relevance.
+</details>
+
+---
+
+## &nbsp; Featured Projects
+
+<details open>
+<summary><b>📚 &nbsp;Grokked.in — DSA Learning Platform with AI Tutor</b></summary>
+
+<br/>
+
+A scalable web platform for practicing data structures and algorithms, with an LLM-powered tutor. *Nov 2025 – Present*
+
+| | |
+|:--|:--|
+| **Stack** | Next.js · React · Node.js · PostgreSQL · REST APIs · LLM |
+| **Scale** | **1,571 DSA problems** across **4 languages** |
+| **Architecture** | REST APIs + PostgreSQL-based progress tracking for reliable user progress management |
+| **Link** | [grokked.in ↗](https://grokked.in) |
 
 </details>
 
 <details>
-<summary><b>👗 &nbsp;Snap2Style — AI-Powered Outfit Recommendation Platform</b></summary>
+<summary><b>👗 &nbsp;Snap2Style — CV + GAN Outfit Recommender</b></summary>
 
 <br/>
 
-An end-to-end computer-vision system that reads clothing attributes from a user photo and generates personalized outfit recommendations.
+A computer-vision and GAN-based pipeline that reads clothing attributes from a photo and recommends outfits. *Aug – Sep 2025*
 
 | | |
 |:--|:--|
-| **Stack** | Python · OpenCV · Streamlit |
-| **Scale** | Trained & validated on **10,000+ fashion images** (DeepFashion / Kaggle) |
-| **Performance** | **~88% attribute-detection accuracy** · **<2s inference latency** |
-| **Architecture** | Modular pipeline: preprocessing → feature extraction → recommendation engine |
-| **Impact** | Designed for easy scaling to wardrobe tracking & trend-aware suggestions |
+| **Stack** | Python · OpenCV · PyTorch · GAN |
+| **Scale** | **10,000+ images** |
+| **Performance** | **~88% attribute-detection accuracy** · **sub-2s** end-to-end latency |
 | **Repository** | [Source ↗](https://github.com/AnmolAgarwal4) |
-
-The modular design means new capabilities slot in without re-architecting the core inference path.
 
 </details>
 
@@ -131,131 +145,102 @@ The modular design means new capabilities slot in without re-architecting the co
 
 <br/>
 
-A data-analytics platform that processes neural/cognitive datasets to surface behavioral patterns and anomalies through interactive dashboards.
+Supervised ML models plus interactive dashboards for exploring cognitive datasets. *Oct – Dec 2025*
 
 | | |
 |:--|:--|
-| **Stack** | Python · Machine Learning · Streamlit |
-| **Scale** | Trained on **1,000+ records** |
-| **Performance** | **~82% classification accuracy** |
-| **Architecture** | Dynamic filtering + visualization pipelines for real-time insight generation |
-| **Impact** | Interactive dashboards cut manual analysis time by **~50%** |
+| **Stack** | Python · scikit-learn · Streamlit · Pandas |
+| **Scale** | **1,000+ records** |
+| **Performance** | **~82% accuracy** |
+| **Impact** | Dashboards cut manual analysis time by **~50%** for non-technical analysts |
 | **Repository** | [Source ↗](https://github.com/AnmolAgarwal4) |
-
-Built for exploratory analysis — analysts can filter and visualize patterns without writing code.
 
 </details>
 
 <details>
-<summary><b>💡 &nbsp;Intelligent High-Beam Automation System</b></summary>
+<summary><b>🏥 &nbsp;Hospital Management System (IBM)</b></summary>
 
 <br/>
 
-A hybrid software–hardware prototype that adaptively switches vehicle high-beams based on real-time traffic density and ambient light.
+Full-stack hospital platform with role-based access, built during the IBM internship.
 
 | | |
 |:--|:--|
-| **Stack** | Python (simulation) · Arduino / C (embedded) · I2C / SPI |
-| **Scale** | Live prototype with distance + light sensor integration |
-| **Performance** | **~90% switching accuracy** in controlled tests |
-| **Architecture** | Sensor fusion → adaptive beam-switching logic → monitoring dashboard |
-| **Impact** | Lightweight dashboard for sensor data & system state improved debugging/tuning |
+| **Stack** | Python · Flask · SQL · REST APIs |
+| **Scale** | Workflows across **500+ patient records** |
+| **Performance** | Query optimization + automated scheduling cut administrative handling time by **40%** |
+| **Security** | Role-based access control |
+| **Impact** | Usable by non-technical clinical staff with **zero training** |
 | **Repository** | [Source ↗](https://github.com/AnmolAgarwal4) |
-
-Bridges embedded control and software simulation, with stable performance observed during live deployment.
-
-</details>
-
-<details>
-<summary><b>🏥 &nbsp;Hospital Management System</b></summary>
-
-<br/>
-
-A full-stack hospital management platform with role-based access for patients, doctors, and administrators — built during the IBM internship.
-
-| | |
-|:--|:--|
-| **Stack** | Python · Flask · SQL · HTML · CSS · JavaScript |
-| **Scale** | SQL workflows across **500+ records** (patients, appointments, scheduling) |
-| **Performance** | Reduced record-handling time by **~40%** |
-| **Security** | Secure APIs + **role-based access control** |
-| **Impact** | Responsive frontend reduced manual administrative effort |
-| **Repository** | [Source ↗](https://github.com/AnmolAgarwal4) |
-
-End-to-end ownership from secure API design through database workflows to a responsive UI.
 
 </details>
 
 ---
 
-<!-- ====================== EXPERIENCE ====================== -->
 ## &nbsp; Experience
 
-### &nbsp;AI/ML Intern &nbsp;·&nbsp; IBM
-`June 2025 – August 2025` &nbsp;·&nbsp; `Remote`
+### &nbsp;Freelance Web Developer &nbsp;·&nbsp; Self-employed
+`May 2026 – Aug 2026` &nbsp;·&nbsp; `Remote`
 
-Worked across the full software pipeline, shipping a production-style full-stack platform with secure APIs and a relational data layer.
+- Developed and deployed a **production website for a defence-tech/UAV startup**: 6 UAV platforms, 240+ structured specification fields
+- Architected a **reusable product system** — one shared template with URL-parameter routing replaces hand-coded product pages
+- Built custom **SVG/CSS radar animations** and an **accessible product modal** (focus trapping, ESC-to-close, ARIA roles, dynamic `mailto` enquiries) across 3 responsive breakpoints
 
-- Built a full-stack **Hospital Management System** with role-based access control
-- Designed **SQL-driven workflows** managing 500+ records, cutting handling time ~40%
-- Developed a responsive frontend improving usability and reducing manual effort
-
-`Python` &nbsp; `Flask` &nbsp; `SQL` &nbsp; `REST APIs` &nbsp; `Full-Stack`
+`WordPress` &nbsp; `Elementor` &nbsp; `Vanilla JavaScript` &nbsp; `SVG/CSS` &nbsp; `Accessibility`
 
 <br/>
 
-### &nbsp;Volunteer &nbsp;·&nbsp; Time Bank of India
-`May 2022` &nbsp;·&nbsp; `On-Site`
+### &nbsp;Software Engineering Intern &nbsp;·&nbsp; IBM
+`June 2025 – August 2025` &nbsp;·&nbsp; `Remote`
 
-Contributed to community-driven initiatives, coordinating on-site with the team.
+- Implemented a full-stack **Hospital Management System** (Python/Flask, SQL, REST APIs, RBAC) across **500+ patient records**
+- Optimized APIs and SQL workflows, reducing administrative handling time by **40%**
+- Coordinated requirements with technical and clinical stakeholders; shipped a system non-technical staff could use with zero training
 
-`Collaboration` &nbsp; `Community` &nbsp; `Coordination`
+`Python` &nbsp; `Flask` &nbsp; `SQL` &nbsp; `REST APIs` &nbsp; `RBAC`
 
 ---
 
-<!-- ====================== ACHIEVEMENTS ====================== -->
+## &nbsp; Education
+
+**JECRC University, Jaipur** — B.Tech. in Computer Science Engineering (Hons.) · `Sep 2024 – May 2028`
+
+---
+
 ## &nbsp; Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |:--|:--|
-| 🎬 **Netflix ML/AI Internship Screening (2026)** | Invited to complete screening from a global applicant pool of **3,000+** |
-| 🏆 **Hackathon Finalist** | Ranked **Top 6 of 62** competing teams (**Top 10%**) at a university hackathon |
+| 📄 **First-Author Preprint** | *Lurox* (cs.IR) — in submission |
 | ☁️ **AWS Skill Builder Bootcamp (UPES)** | **Top 10 of 1,000+** participants (**Top 1%**) |
-| 📖 **IELTS Academic** | **Band 7** |
+| 🏆 **Hackathon Finalist** | **Top 6 of 62** teams (**Top 10%**) at a university-level hackathon |
+| 📖 **IELTS** | Overall **Band 7.0** (C1) |
 
 </div>
 
 ---
 
-<!-- ====================== CERTIFICATIONS ====================== -->
 ## &nbsp; Certifications
 
 **Amazon Web Services (AWS)**
 
-<img src="https://img.shields.io/badge/Cloud_Security_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud_Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Introduction_to_Cloud_(I_%26_II)-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Skill_Builder_Modules-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 **Google**
 
-<img src="https://img.shields.io/badge/Crash_Course_on_Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foundations_of_UX_Design-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/UX_Design-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
 **Walmart USA (Forage)**
 
-<img src="https://img.shields.io/badge/Advanced_Software_Engineering_Job_Simulation-0071CE?style=flat-square&logo=walmart&logoColor=white"/>
-
-**University of Michigan · Coursera**
-
-<img src="https://img.shields.io/badge/Leading_Teams-7C3AED?style=flat-square&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning_How_to_Learn-7C3AED?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software_Engineering_Job_Simulation-0071CE?style=flat-square&logo=walmart&logoColor=white"/>
 
 ---
 
-<!-- ====================== CODING PROFILES ====================== -->
 ## &nbsp; Coding Profiles
 
 <div align="center">
@@ -270,7 +255,6 @@ Contributed to community-driven initiatives, coordinating on-site with the team.
 
 ---
 
-<!-- ====================== GITHUB ANALYTICS ====================== -->
 ## &nbsp; GitHub Analytics
 
 <div align="center">
@@ -286,7 +270,6 @@ Contributed to community-driven initiatives, coordinating on-site with the team.
 
 ---
 
-<!-- ====================== TROPHIES ====================== -->
 ## &nbsp; GitHub Trophies
 
 <div align="center">
@@ -297,7 +280,6 @@ Contributed to community-driven initiatives, coordinating on-site with the team.
 
 ---
 
-<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
 ## &nbsp; Contribution Activity
 
 <div align="center">
@@ -308,7 +290,6 @@ Contributed to community-driven initiatives, coordinating on-site with the team.
 
 ---
 
-<!-- ====================== CONTRIBUTION SNAKE ====================== -->
 ## &nbsp; Contribution Snake
 
 <div align="center">
@@ -323,20 +304,18 @@ Contributed to community-driven initiatives, coordinating on-site with the team.
 
 ---
 
-<!-- ====================== CURRENT FOCUS ====================== -->
 ## &nbsp; Current Focus
 
 ```yaml
 Anmol_Agarwal:
+  Building:   [ "Lurox — preprint (cs.IR) in submission", "Grokked.in — DSA platform + AI tutor" ]
   Learning:   [ Distributed Systems, Advanced RAG, MLOps ]
-  Building:   "Lurox — Hybrid Retrieval-Augmented Search Engine"
   Exploring:  [ LLM Fine-Tuning, Vector Databases, System Design ]
-  Open_To:    [ AI/ML Internships, SWE Roles, Open-Source Collaboration ]
+  Open_To:    [ AI/ML Internships, SWE Roles, Research & Open-Source Collaboration ]
 ```
 
 ---
 
-<!-- ====================== CONNECT ====================== -->
 ## &nbsp; Connect
 
 <div align="center">
@@ -350,7 +329,6 @@ Anmol_Agarwal:
 
 ---
 
-<!-- ====================== FOOTER ====================== -->
 <div align="center">
 
 <i>"Build systems that ship — accuracy in the model, latency in the pipeline, and the user always in mind."</i>
